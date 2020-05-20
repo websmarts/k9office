@@ -1,0 +1,580 @@
+Co./Last Name	Card ID	Addr 1 - Line 1	           - Line 2	           - Line 3	           - Line 4	           - City	           - State	           - Postcode	           - Country	Identifiers
+/Ellar Laboratorie's	9310 3799	6 Silicon Place				Tullamarine	Vic	3043	Australia	AQTY
+/Hafele Australia	9212 2000	8 Monterey Road				Dandenong	Vic	3175	Australia	ANTX
+/Lyppard Australia Limited	8769 0500	14-16 Fiveways Boulevard				Keysborough	Vic	3173	Australia	ANSY
+/Lyppard Queensland	07 3260 8600	86 Crockford Street				Northgate	Qld	4013	Australia	CNSY
+/Lyppard South Australia	08 8234 2555	28 Charles Road				Beverley	SA	5009	Australia	ENSY
+/Lyppard Sydney	02 9899 1500	"Unit 1, 4 Hudson Avenue"				Castle Hill	NSW	2154	Australia	BNSY
+/Lyppard Townsville	07 4779 7333	12 Madden Street	Aitkenvale			Townsville	QLD	4814	Australia	CNSY
+/Lyppard Western Australia	08 9240 1910	4 Gibberd Road				Balcatta	WA	6021	Australia	FNSY
+/Provet Head Office	07 3621 6000a	48 Bell-Are Avenue				Northgate	QLD	4031	Australia	CQSW
+/Provet Queensland North	07 4729 3200	57-61 Toll Street				Bohle	Qld	4818	Australia	CNSW
+/Provet Queensland South	07 3621 6000	48 Bell-Are Avenue				Northgate	Qld	4031	Australia	CQSW
+/Provet Victoria	9540 5700	27 Sunmore Close				Heatherton	Vic	3202	Australia	AQSY
+/Therapon Pty Ltd	9808 6300	1-3 Florence Street				Burwood	Vic	3125	Australia	ANSY
+4 Paws & More Pet Supplies	9331 7869	"Unit 2, 60 Keilor Park Drive"				Keilor Park	Vic	3402	Australia	AJTY
+Abba Boarding Kennels	9798 4362	70 Tyers Lane				Keysborough	Vic	3173	Australia	AMUZ
+Abode of the Friendly Toad	9818 1103	99 Burwood Road				Hawthorn	Vic	3122	Australia	AJUY
+ACA Breaders Kennels (Companion Pets)	9837 5133	1310 High Street				Wantirna South	Vic	3152	Australia	AJTZ
+All 4 Pets - Australia Pty Ltd	9499 2279a	PO Box 415				Somerton	Vic	3062	Australia	AJSYZ
+All 4 Pets - Ivanhoe	9499 2279	62 Lower Heidelberg Road				Ivanhoe	Vic	3079	Australia	AJSY
+All 4 Pets - Moorabbin	9555 1534	650 South Road				Moorabbin	Vic	3189	Australia	AJSZ
+All 4 Pets - Springvale	9574 2166	770 Princes Highway				Springvale	Vic	3171	Australia	AJSZ
+Allambie Veterinary Clinic	02 9905 0505	92 Allambie Road				Allambie	NSW	2100	Australia	BKUW
+Allendale Boarding Kennels & Cattery	9844 3626	1 Johanson's				Warrandyte South	Vic	3134	Australia	AMUY
+Altona North Veterinary Clinic	9391 5837	221 Millers Road				North Altona	Vic	3025	Australia	AKUY
+Andorra The Pet Hotel (Lost Dogs Home)	9702 8322	920 Thompsons Road				Cranbourne	Vic	3977	Australia	AMUZ
+Animal Care Cranbourne Veterinary Centre	5995 3444	1/199 High Street				Cranbourne	Vic	3977	Australia	AKUZ
+Animal Magic	07 5530 3599	Shop 2/19 Railway Street				Mudgeeraba	QLD	4213	Australia	COUW
+Animal Welfare Legue	08 8268 4188	1-19 Cormack Road				Wingfield	SA	5013	Australia	EJUW
+Animal World of Boronia	9762 3166	Shop 21/163 Boronia Road				Boronia	Vic	3155	Australia	AJUY
+Animates Investments	643 365 6970	"Blackheath, First Floor, Unit 3"	9 Wordsworth Street			Sydenham	NZ	4070	Australia	IJUW
+Anne Bognar	9521 8428	21 Glenmore Cresent				Blackrock	Vic	3193	Australia	AKUZ
+Anvet Pet Clinic - Ashwood	9885 2255	509 Warrigal Road				Ashwood	Vic	3147	Australia	AKSZ
+Anvet Pet Clinic - Head Office	9885 2255a	509 Warrigal Road				Ashwood	Vic	3147	Australia	AKSZ
+Arrowcraft Industries	5152 5380	61 Forge Creek Road				Bairnsdale	Vic	3875	Australia	ANUW
+Ascot Saddlery	9376 5444	540 Racecourse Road				Flemington	Vic	3031	Australia	ALSY
+Ascot Vale Stockfeed	9376 6871	536 Racecourse Road				Flemington	Vic	3031	Australia	ALSY
+Ashburton Pet Supply	9885 4764	1a Welfare Parade				Ashburton	Vic	3147	Australia	AJTZ
+Aspendale Gardens Animal Hospital	9587 4599	PO Box 7332	Karingal Centre Post Office			Frankston	Vic	3199	Australia	AKUZ
+Aspendale Vet Clinic	9772 7822	262 Nepean Highway				Edithvale	Vic	3196	Australia	AKUZ
+Aussie Country Pet Food	08 8557 8885	2/161 Esplanade				Aldinga Beach	SA	5173	Australia	EJTW
+Australian Animal Protection	9798 8415	10 Homeleigh Road				Keysborough	Vic	3173	Australia	AKTZ
+Australian Bird Company	9546 1711	578 Springvale Road				Springvale North	Vic	3171	Australia	AJUZ
+Bacchus Marsh Farm Supplies	5367 3066	4-6 Grant Street				Bacchus Marsh	Vic	3340	Australia	ALTY
+Bacchus Marsh Stockfeed	5367 1205	216 Main Street				Bacchus Marsh	Vic	3340	Australia	ALSY
+Ballarat Pet Food Supplies	5335 9104	520 Skipton Street				Ballarat	Vic	3350	Australia	AJUY
+Balnarring Stockfeed	5983 5150	2990 Frankston Flinders Road				Balnarring	Vic	3936	Australia	ALUZ
+Balwyn Vet Surgery	9817 4561	185 Whitehorse Road				Balwyn	Vic	3103	Australia	AKUY
+Bark Avenue	9589 2806	20 Keys Street				Beaumaris	Vic	3193	Australia	AMUZ
+Barkers Vet Clinic	9853 3990	37 Church Street				Hawthorn	Vic	3122	Australia	AKUY
+Barking Mad	02 4464 3370	"Shop 4, 78 Albert Court"				Berry	NSW	2535	Australia	BJUW
+Barking Mad Pet Supplies Victoria	9416 7600	731 High Street				Thornbury	Vic	3071	Australia	AJSY
+Bayer Australia	0418 720 521	875 Pacific Highway				Pymble	NSW	2073	Australia	BNUW
+Bayside Pet Centre	9772 1247	71 Soden Road				Bangholme	Vic	3175	Australia	AMUZ
+Bayswater Australian Pets	9729 6284	747 Mountain Highway				Bayswater	Vic	3153	Australia	AJUY
+Bayswater Vet Clinic	9729 1153	627 Mountain Highway				Bayswater	Vic	3153	Australia	AKUY
+Beaconsfield-Berwick Pet Resort	9707 1661	236 Beaconsfield-Emerald Road				Beaconsfield	vIC	3807	Australia	AMUZ
+Beaconsfield Pet Supplies	9707 2841	14B 55 Princes Highway				Beaconsfield	Vic	3807	Australia	AJUZ
+Beds for Tails Resort & Spa	5983 6772	130 Hendersons Road				Bittern	Vic	3918	Australia	AMTZ
+Belgrave Pet Supplies n Grooming Shoppe	9752 6452	1527 Burwood Highway				Tecoma	Vic	3160	Australia	AJTZ
+Belgrave South Vet Clinic	9754 2316	136 Belgrave-Hallam Road				Belgrave	Vic	3160	Australia	AKUZ
+Bell's Pet Shop	9354 7822	104 Kent Street				Pascoe Vale	Vic	3044	Australia	AJUY
+Bellarine Veterinary Practice	5248 2009	65 Coppards Road				Newcomb	Vic	3219	Australia	AKUY
+Benalla Pet Shop	5762 6281	104 Bridge Street				Benalla	Vic	3672	Australia	AJUW
+Bendigo Fish n Feather	5443 2551	Shop 4  7 Wills Street				Bendigo	Vic	3550	Australia	AJUW
+Bendigo Obedience Dog Club	5442 6374	PO Box 2396	Bendigo Mail Centre			Bendigo	Vic	3554	Australia	ANUW
+Berwick Boarding Kennels	9702 2211	106 Homestead Road				Berwick	Vic	3806	Australia	AMTZ
+Berwick Vet Hospital	9707 2655	58 Clyde Road				Berwick	Vic	3806	Australia	AKTZ
+Berwick Village Animal Care	9707 3855	35 Clyde Road				Berwick	Vic	3806	Australia	AKTZ
+Betta Pet Warehouse	9740 3500	104 Horne Street				Sunbury	Vic	3429	Australia	AJTY
+Black Rock Animal Hospital	9589 0777	581 Balcombe Road				Black Rock	Vic	3193	Australia	AKUZ
+Blackburn Animal Hospital	9877 3277	80 Canterbury Road				Blackburn	Vic	3130	Australia	AKUY
+Blue Ribbon Pet Foods	5962 1200	3 St Leonards Road				Healesville	Vic	3777	Australia	AJTY
+Blyszak Stockfeeds	5272 1289	376 Thompons Road				Geelong North	Vic	3220	Australia	ALTY
+Bordabemyn Pet Boarding Kennels & Cattery	08 9846 4306	RMB 8062 Dempster Road	Lower Kalgan			Albany	WA	6330	Australia	FMUW
+Boronia Pets	9762 5554	244 Dorset Road				Boronia	Vic	3155	Australia	AJUY
+Boronia Vet Clinic & Animal Hospital	9762 3177	181 Boronia Road				Boronia	Vic	3155	Australia	AKTY
+Bow Wow Meow Pet Boutique	9584 6409	"Shop 2, 10 Park Road"				Cheltenham	Vic	3192	Australia	AJTZ
+Bow Wows Dog Grooming	9521 0187	301 Hampton Street				Hampton	Vic	3188	Australia	AOUZ
+Box Hill Vet	9890 6071	767 Whitehorse Road				Mont Albert	Vic	3127	Australia	AKTY
+Brighton Vet Hospital	9596 7333	93 Bay Street				Brighton	Vic	3186	Australia	AKUZ
+Brunswick Pet Shop	9380 5566	306 Sydney Road				Brunswick	Vic	3056	Australia	AJUY
+Buddies Pet Supplies	9596 4472	359 Nepean Highway				East Brighton	Vic	3187	Australia	AJTZ
+Budget Stockfeeds	5975 5151	125 Tyabb Road				Mornington	Vic	3931	Australia	ALTZ
+Bundoora Veterinary Hospital	9467 2255	17-19 Plenty Road				Bundoora	Vic	3083	Australia	AKUY
+Burvale Heights Vet Surgery	9877 3999	414 Springvale Road				Forest Hill	Vic	3131	Australia	AKUY
+Burwood Fuel & Fodder Supply	9808 2130	315 Warrigal Rd				Burwood	Vic	3125	Australia	ALUZ
+Burwood Pets & Birds	9809 1212	1415 Toorak Road				Burwood	Vic	3125	Australia	AJUZ
+Burwood Road Clinic for Cats	9819 1468	69 Burwood Road				Hawthorn	Vic	3122	Australia	AKTY
+Busters Pet & Produce	02 6686 0688	35 Dehvilland Cresent				Ballina	NSW	2478	Australia	BJUW
+Camberwell Vet Clinic	9836 0536	896 Riversdale Road				Camberwell	Vic	3124	Australia	AKUZ
+Canine Clip Joint	9571 3130	144 Neerim Road				Caulfield East	Vic	3145	Australia	AOUZ
+Canine Elegance	9842 6788	958 Doncaster Road				East Doncaster	Vic	3109	Australia	AOUY
+Canterbury Vet Clinic	9836 2708	354 Canterbury Road				Surrey Hills	Vic	3127	Australia	AKTY
+Cardinia Vet Centre	5941 3822	164 Princes Highway				Pakenham	Vic	3810	Australia	AKUZ
+Casey Mobile Dog Services	8790 1223	3 Estella Court				Naree Warren North	Vic	3804	Australia	AOUZ
+Castelan Boarding Kennels	07 3390 1169off	85 Warriewood Street				Chandler	QLD	4155	Australia	CMUW
+Cat-A-Tonic	08 8295 7725	19 Lindsay Street				Camden Park	SA	5038	Australia	EJUW
+Cat Lovers Veterinary Clinic	9769 6999	18 Overport Road				Frankston	Vic	3199	Australia	AKUZ
+Cat Protection Society of Victoria	9432 0957	200 Elder Street				Greensborough	Vic	3088	Australia	AKSY
+Cats R Us	9707 4740	275 Princes Highway				Officer	Vic	3809	Australia	AMUZ
+Caulfield South Veterinary Clinic	9528 2525	463 Hawthorn Road				Caulfield South	Vic	3162	Australia	AKUZ
+Caulfield Vet Clinic	9527 7740	370 Dandenong Road				Caulfield North	Vic	3161	Australia	AKUZ
+Central Reptile & Pet Shop	9360 7824	"Shop 50, 1 Central Avenue"				Laverton	Vic	3028	Australia	AJUY
+Central Veterinary Hospital Sandringham	9598 7848	26 Abbott Street				Sandringham	Vic	3191	Australia	AKTZ
+Central Walk Pets	9743 9472	"Shop 2, 415 High Street"	Central Walk			Melton	Vic	3337	Australia	AJUY
+Champion Pet Foods	9725 0288	190 Bayswater Road				Bayswater	Vic	3137	Australia	AJTY
+Chelsea Lane Pets & Supplies	02 9973 2961	4/48 Old Barrenjoey Road				Avalon	NSW	2107	Australia	BJUW
+Chirnside Park Vet Clinic	9737 6366	103 Switchback Road				Chirnside Park	Vic	3116	Australia	AKUY
+Chirnside Pets Centre	9726 5846	Shop 713A	Chirnside Park Shopping Centre			Chirnside Park	Vic	3116	Australia	AJTY
+"City of Greater Geelong, City Hall"	5227 0504a	30 Gheringhap Street				Geelong	Vic	3220	Australia	ANTW
+City Pets	9882 4240	Rear 614 Burke Road	Shop 2			Camberwell	Vic	3124	Australia	AJUZ
+Cliff Avenue Pet Food & Supplies	08 8386 0888	48 Cliff Avenue				Port Noarlunga	SA	5167	Australia	EJTW
+Clifton Hill Vet Clinic	9489 4055	470 Wellington Road				Clifton Hill	Vic	3068	Australia	AKUY
+Club Pet Kennels	9796 8223	202 A'Beckett Road				Narre Warren North	Vic	3804	Australia	AMUZ
+Collars & Scents Pet Essentials	9596 4738	283 Bay Street				Brighton	Vic	3186	Australia	AJSZ
+Command Dog Training School	9877 6522	19 Jeffery street				Blackburn	Vic	3130	Australia	ANUY
+Complete Canine Company	08 8231 3667	393 King William Street				Adelaide	SA	5000	Australia	EJUW
+Cooinda Cattery	5971 1395	65 Barretts Road				Baxter	Vic	3911	Australia	AMUZ
+Cooma Pet Shop	02 6452 6399	73 Sharp Street				Cooma	NSW	2630	Australia	BJUW
+Cottage Kennels & Cattery	9436 1133	248 Yan Yean Road				Plenty	Vic	3090	Australia	AMTY
+Count Dogula's	5153 1013	26 Wood Street				Bairnsdale	Vic	3875	Australia	AJTW
+Croydon Pets & Produce Store	9725 2866	66 Maroondah Highway				Croydon	Vic	3136	Australia	ALTY
+Croydon Vet Clinic	9723 2476	167 Mt Dandenong Road				Croydon	Vic	3136	Australia	AKTY
+Crystal Enterprises (Aust)	9571 8561	170 Haughton Road				Oakleigh	Vic	3166	Australia	ANUW
+Cute Critters	02 6947 9734	20A Russel Street				Tumut	NSW	2720	Australia	BJSW
+Danaher's Timber & Hardware	9457 2645	464 Lower Heidelberg Road				Heidelberg	Vic	3084	Australia	APUY
+Dandenong Vet Hospital	9792 4787	118 Princes Highway				Dandenong	Vic	3175	Australia	AKUZ
+Daylesford Mind Your Pet	5348 4213	"Shop 4, Park Lane"				Daylesford	Vic	3460	Australia	AJSY
+DD Pet Foods	9786 4603	3a Apsley Place				Seaford	Vic	3198	Australia	AJTZ
+Derrimut Road Vet	9749 3011	58 Derrimut Road				Hoppers Crossing	Vic	3029	Australia	AKTY
+Diamond Creek Aquarium	9438 2956	23-25 Main Road				Diamond Creek	Vic	3089	Australia	AJSY
+Diamond Creek Vet Hospital	9438 1183	110 Main Hurstbridge Road				Diamond Creek	Vic	3089	Australia	AKTY
+Diamond Valley Mitre10	9438 2077	95 Main Hurstbridge Road				Diamond Creek	Vic	3089	Australia	APTY
+Dingley Vet Clinic	9551 4775	130 Centre Dandenong Road				Dingley Village	Vic	3172	Australia	AKUZ
+Dirty Dogs Pet Supplies	9773 2717	Shop 1/218 Nepean Highway				Edithvale	Vic	3196	Australia	AJUZ
+Discount Animal Supplies - Lynbrook	8768 7799	9 Chapel Street				Lynbrook	Vic	3975	Australia	AJTZ
+Discount Animal Supplies - Lysterfield	9752 9814	550 Lysterfield Road				Lysterfield	Vic	3156	Australia	ALUZ
+Diva Dogs	9503 4222	4 Richardson Street				Hughesdale	Vic	3166	Australia	AJUZ
+Doctor Dolittles Hampton	9598 9085	Shop 19 427-449 Hampton Street				Hampton	Vic	3188	Australia	AJUZ
+Dog Depot	9888 6555	490 Whitehorse Road				Surrey Hills	Vic	3127	Australia	AJTY
+Dog Grooming by Jacqui	9879 7888	60 Mt Dandenong Road				Ringwood East	Vic	3135	Australia	AOUY
+Dog House Pet Resort	5264 5026	575 Ghazeppore Raod				Mt Dundeed	Vic	3216	Australia	AMUY
+Dog Studio	9822 6639	1b Rose Street				Armadale	Vic	3143	Australia	AOUZ
+Doggie Day Care Centre & Puppy Creche	9532 1393	216 Wickham Road				Moorabbin	Vic	3189	Australia	AMTZ
+Doggy Dooz	9687 0299	154a Victoria Street				Seddon	Vic	3011	Australia	AJTY
+Doggy Party Plan	0417 114 991	14 Serpentine Road				Keysborough	Vic	3173	Australia	ANTZ
+Dogs Country Club Kennel Resort	5971 1127	15 Sumner Rd				Baxter	Vic	3911	Australia	AMTZ
+DOGS of Victoria	9898 2100	PO Box 79				Kerrimuir	Vic	3129	Australia	ANUY
+Dogzone	9427 9888	53 North Street				Richmond	Vic	3121	Australia	AOUZ
+Doreen Stockfeed	9717 3927	Cnr Yan Yean Rd	Doctors Gully Rd			Doreen	Vic	3754	Australia	ALUY
+Dorset Road Vet Clinic	9727 4004	Cnr Dorset Road & Bellara Drive				Croydon	Vic	3136	Australia	AKUY
+Dr Leo Cantwell	9793 1694	Cnr Stud & McFees Roads				Dandenong	Vic	3175	Australia	AKTZ
+Dr Michael Traumanis	5625 1707	200 Princes Highway				Drouin	Vic	3818	Australia	AKUZ
+Dromana Dog Grooming & Clipping Service	5987 0853	40 Fig Street				Dromana	Vic	3936	Australia	AOUZ
+Dromana Vet Hospital	5987 2477	27 McCulloch Street				Dromana	Vic	3936	Australia	AKUZ
+Drouin Pet Shop	5625 3555	2 Hope Street				Drouin	Vic	3818	Australia	AJUW
+Duffton Kennels	9436 1426	33 Kurrak Drive				Yarrambat	Vic	3091	Australia	AMUY
+E & A Salce	9484 3805	647 High Street				Thornbury	Vic	3071	Australia	AJUY
+East Bentleigh Animal Care	9579 5858	581 Warrigal Road				East Bentleigh	Vic	3165	Australia	AKUZ
+East Bentleigh Vet Clinic	9579 3430	172 East Boundry Road				East Bentleigh	Vic	3165	Australia	AKTZ
+East Malvern Vet Clinic	9571 1404	266 Waverley Road				East Malvern	Vic	3145	Australia	AKTZ
+East Mornington Vet Clinic	5975 7766	51 Tyabb Road				Mornington	Vic	3931	Australia	AKUZ
+Elgar Road Vet Hospital	9899 9518	590 Elgar Road				Box Hill North	Vic	3129	Australia	AKSY
+Eliza Cattery	5978 8098	340 Wooralla Drive				Moorooduc	Vic	3933	Australia	AMUZ
+Ellagant Pooches	5941 4578	"Shop 4-5, 162 Main Street"				Pakenham	Vic	3810	Australia	AJTZ
+Elsternwick Vet	9532 9845	627 Glenhuntly Road				Caulfield	Vic	3162	Australia	AKTZ
+Eltham Central Vet Hospital	9439 1111	1282 Main Road				Eltham	Vic	3095	Australia	AKTY
+Eltham Stockfeed & Pet Supply	9439 6716	1142 Main Road				Eltham	Vic	3095	Australia	ALUY
+Elwood Vet Clinic	9531 1771	116 Ormond Road				Elwood	Vic	3184	Australia	AKUZ
+Endeavour Hills Vet Clinic	9700 2264	63 Monkhouse Drive				Endeavour Hills	Vic	3802	Australia	AKUZ
+Energy Pet Supplies	9555 1808	555 Highett Road				Highett	Vic	3190	Australia	AJTZ
+Essendon Vet Clinic	9375 1039	89 Buckley Street				Essendon	Vic	3040	Australia	AKUY
+Eureka Vet Group	5333 5959	121 Creswick Road				Ballarat	Vic	3350	Australia	AKUY
+Exel Rural	9735 4333	148 Main Street				Lilydale	Vic	3140	Australia	ALUY
+Faat Cats	9571 4867	1198 Glenhuntly Road				Glenhuntly	Vic	3163	Australia	AJUZ
+Fawkner Vet Hospital	9359 3474	1148 Sydney Road				Fawkner	Vic	3060	Australia	AKTY
+Ferntree Gully Vet	9758 4055	1288 Burwood Road				Ferntree Gully	Vic	3156	Australia	AKTY
+Fifi Pets Spa	9844 0435	PO Box 161				Warrandyte	Vic	3113	Australia	AOUY
+Fish & Feather	9761 4410	243-245 Colchester Road				Kilsyth	Vic	3137	Australia	AJUZ
+Fitzroy Vet Clinic	9489 2195	102 Scotchermer Street				Fitzroy North	Vic	3068	Australia	AKUY
+Five Star Grooming	9702 9033	3 Nola Court				Hampton Park	Vic	3976	Australia	AOUZ
+FJ'S Clearance	9729 3636	705 Mountain Highway				Bayswater	Vic	3153	Australia	APUY
+Flemington Vet	9376 5299	187 Mount Alexander Road				Ascot Vale	Vic	3032	Australia	AKTY
+Flynn's Pet Shop	6234 4216	79 Bathurst Street				Hobart	Tas	7000	Australia	GJTW
+Forest Hill Vet Clinic	9873 1544	357 Canterbury Road				Forest Hill	Vic	3131	Australia	AKUY
+Fourpaws	0409 035 579	PO Box 821				Kings Langley	NSW	2147	Australia	BJUW
+Fueltex Produce & Fuel	9735 4060	87 Warburton Highway				Lilydale	Vic	3140	Australia	ALUY
+Furry Friends Pet Grooming	02 9453 3312	17 Kinsdale Close				Killarney Heights	NSW	2087	Australia	BOUW
+Geelong Animal Welfare Society	5248 2091	325 Portarlington Road				Moolap	Vic	3221	Australia	AMUY
+Geelong Cattery	5264 1417	960 Barwon Heads Road				Connewarre	Vic	3227	Australia	AMUY
+Geelong Pet Supplies	5281 2109	18 Glennette Court				Bannockburn	Vic	3331	Australia	AJUY
+Genoa Boarding Kennels	5158 8278	Princess Highway				Genoa	Vic	3891	Australia	AMUW
+German Shepard Dog Club - Bendigo	5442 7094	4 Hollow Street				Golden Square	Vic	3555	Australia	ANUY
+German Shepard Dog Club - Northern Branch	9434 5604	27 Punkerri Circuit				Greensborough	Vic	3088	Australia	ANUW
+Gisborne Vet Clinic	5428 6674	19 Melvins Road				Riddells Creek	Vic	3431	Australia	AKUW
+Glen Eira Veterinary Hospital	9578 0041	453 North Road				Ormond	Vic	3204	Australia	AKUZ
+Glen Iris Vet Hospital	9822 4952	1331 High Street				Malvern	Vic	3144	Australia	AKUZ
+Glen Valley Produce	9730 1729	"Unit 2, Lot 1 Armstrong Grove"				Yarra Glen	Vic	3775	Australia	ALUY
+Glenhuntly Rd Vet Clinic	9571 7144	1111 Glenhuntly Road				Glen huntly	Vic	3163	Australia	AKTZ
+Glenrowan Vet Hospital	5766 2661	Po Box 92				Glenrowan	Vic	3675	Australia	AKUW
+Glenroy Vet Clinic	9300 1099	125 Wheatsheaf Road				Glenroy	Vic	3046	Australia	AKTY
+Glossop Saddler fodder & Pet Centre	08 8583 2010	Po Box 153				Glossop	SA	5344	Australia	ELUW
+Goldfields Pet & Produce Supplies	9844 1766	98 Melbourne Hill Road				Warrandyte	Vic	3113	Australia	AJSY
+Goondinwindi Pet Shop & Saddlery	0746 714 161	22 Herbert Street				Goondinwindi	QLD	4390	Australia	CJUW
+Gosford Grooming	02 4329 6200	2 Deane Street				Narara	NSW	2250	Australia	BOUW
+Greensborough Grain Store	9435 1339	Central Court Arcade	(rear main street opp swimming pool)			Greensborough	Vic	3088	Australia	ALTY
+Greensborough Vet Hospital	9435 3333	505 Old Greensborough Road				Greensborough	Vic	3088	Australia	AKTY
+Griffin Boarding Kennels	9782 1433	533-551Dandenong Frankston Road				Bangholme	Vic	3175	Australia	AMUZ
+Guide Dogs Of Victoria	9854 4441	Chandler Highway				Kew	Vic	3101	Australia	AMTY
+Gumnut Kennels & Cattery	9436 1480	Ashley Road				Yarrambat	Vic	3091	Australia	AMUY
+Gwendolyn Park Pets Holiday Centre	5978 6466	6 Scott Road				Cranbourne South	Vic	3977	Australia	AMUZ
+Hafele New Zealand	+64 9274 2040	16 Accent Drive				East Tamaki	Auckland		New Zealand	INTX
+Hairy Hounds Playground	9397 3044	12 Bentley Street				Williamstown	Vic	3016	Australia	AMTY
+Hairy Legs Mobile Dog Grooming	9458 5298	Unit 1 260 Waiora Road				Macleod	Vic	3085	Australia	AOUY
+Hallam Park Boarding Kennels & Cattery	9703 1904	55 Belgrave-Hallam Road				Hallam	Vic	3803	Australia	AMUZ
+Hallam Veterinary Clinic	9703 1776	55 Belgrave-Hallam Road				Hallam	Vic	3803	Australia	AKUZ
+Hampton Vet Hospital	9521 0211	6 Thomas Street				Hampton	Vic	3188	Australia	AKUZ
+Hastings Produce & Rural Supplies	5979 1230	2083 Frankston - Flinders Road				Hastings	Vic	3915	Australia	ALUZ
+Hastings Vet Clinic	5979 1214	2110 Frankston-Dandenong Road				Hastings	Vic	3915	Australia	AKUZ
+Hawthorn East Vet	9882 0007	1 Victoria Road				Hawthorn East	Vic	3122	Australia	AKUZ
+Hawthorn Vet Clinic	9818 7818	200 Auburn Road				Hawthorn	Vic	3122	Australia	AKUZ
+Healesville Vet Clinic	5962 4530	300 Maroondah Highway				Healesville	Vic	3777	Australia	AKUY
+Heathmont Animal Hospital	9729 4466	3 Dickasons Road				Heathmont	Vic	3135	Australia	AKTY
+Heathmont Pets & Supplies	9738 2530	192 Canterbury Road				Heathmont	Vic	3135	Australia	AJTY
+Heavy Petting	02 9810 4439	9 Beattie Street				Balmain	NSW	2041	Australia	BJUW
+Heidelberg Pet Supplies	9459 2603	Bell Street Mall				Heidelberg West	Vic	3081	Australia	AJUY
+Heidelberg Vet Clinic	9457 3583	19 Southern Road				Heidelberg Heights	Vic	3081	Australia	AKTY
+Heritage Community Vet Clinic	9386 1501	274-276 Sydney Road				Coburg	Vic	3058	Australia	AKUY
+High Street Animal Hospital	9802 8392	527 High Street Road				Mt Waverley	Vic	3149	Australia	AKTZ
+Highett Vet Clinic	9553 5996	2/497 Highett Road				Highett	Vic	3109	Australia	AKUZ
+Highlands Produce Store	5782 2166	Industrial Estate	125 Northern Highway			Kilmore	Vic	3764	Australia	ALUW
+Hilltop Pet & Aquariums	08 8322 1888	43 Main South Road				O'Halloran Hill	SA	5158	Australia	EJUW
+Hobson Bay Vet Clinic	9391 4222	312 Melbourne Road				Newport	Vic	3015	Australia	AKUY
+Homstead Boarding Kennels	9722 1202	12 Homestead Road				Wonga Park	Vic	3155	Australia	AMUY
+Hoppers Crossing Veterinary Clinic	9748 6644	5 Barber Drive				Hoppers Crossing	Vic	3029	Australia	AKUY
+Horsham Boarding Kennels & Cattery	5381 1101	Po Box 153				Horsham	Vic	3402	Australia	AMUW
+Hound Lounge	9482 1111	266 Wingrove Street				Fairfield	Vic	3078	Australia	AJTY
+Hurstbridge Veterinary Clinic & Hospital	9718 1515	911-913 Main Road				Hurstbridge	Vic	3099	Australia	AKTY
+Intercept Detection Canines	5785 1365	PO Box 53				Kilmore	Vic	3764	Australia	ANUW
+It's a Cats Life	5942 9243	10 Moore Road				Nar Nar Goon	Vic	3812	Australia	AMUW
+Ivanhoe Central Vet	9499 3691	51 Upper Heidelberg Road				Ivanhoe	Vic	3079	Australia	AKUY
+Ivorsons Poultry	5248 1552	111 Bellarine Highway				Newcomb	Vic	3219	Australia	ALTY
+Jacqui's Shop	5494 3820	74 High Street				Wedderburn	Vic	3518	Australia	AJUY
+Jano's Petlovers Supplies	5981 1944	Shop 2 Rosebud Central	McDowell Street			Rosebud	Vic	3939	Australia	AJSZ
+Jay Bee's Pet Food & Produce	9364 2612	202 McIntyre Road				Sunshine North	Vic	3020	Australia	AJSY
+John The Vet	9563 9711	166 Jasper Road				Bentleigh	Vic	3204	Australia	AKUZ
+K-9 Antics	9306 8299	7 Patience Street				Glenroy	Vic	3046	Australia	ANTW
+K9 & Katz Kitchen	9717 4707	7 Rural Place				Doreen	Vic	3754	Australia	ANUY
+K9 Design Studio	9462 0101	PO Box 328				Diamond Creek	Vic	3089	Australia	AJUY
+K9 Workouts	9532 3002	PO Box 33				Highett	Vic	3190	Australia	AMSZ
+Kardinia Veterinary Clinic	5221 5122	355 Moorabool Street				Geelong	Vic	3220	Australia	AKTY
+Karingal Vet Hospital	9789 3444	328 Cranbourne Road				Frankston	Vic	3199	Australia	AKUZ
+Katmandog	5956 6900	40 Phillip Island Road				New Haven	Vic	3925	Australia	AJUW
+Kensington Veterinary Clinic	9372 2733	45 Epsom Road				Kensington	Vic	3031	Australia	AKUY
+Kew Vet Clinic	9853 7125	13 Cotham Road				Kew	Vic	3101	Australia	AKTY
+Keysborough Vet Practice	9798 7274	4-8 Chapel Road				Keysborough	Vic	3173	Australia	AKUZ
+Kilsyth Vet Clinic	9725 4011	604 Mt Dandenong Road				Kilsyth	Vic	3137	Australia	AKUY
+Kingston Vet Clinic	9584 7500	32 Lower Dandenong Road				Mentone	Vic	3194	Australia	AKUZ
+Knox Obedeince Dog Club Inc	9763 7278	42 Rosehill Street				Scoresby	Vic	3179	Australia	ANUW
+KT Marty P/L	9459 2322	9 Beatrice Avenue				West Heidelberg	Vic	3081	Australia	ANUW
+Kyneton Pet Supplies	5422 1279	8 Market Street				Kyneton	Vic	3444	Australia	AJUW
+Lady & The Tramp	9598 3331	226 Bluff Road				Sandringham	Vic	3191	Australia	AJUZ
+Laverton Veterinary Clinic	9360 0911	141 Railway Avenue				Laverton	Vic	3028	Australia	AKTY
+Leisure Pets	5975 2559	195 Main Street				Mornington	Vic	3931	Australia	AJSZ
+Liberty International Pty Ltd	5977 7122	21 Simcock Street				Somerville	Vic	3912	Australia	ANUW
+Lilydale Pet Foods	9739 6434	Factory 11 	478 Maroondah Highway			Lilydale	Vic	3140	Australia	AJTY
+Lilydale Vet Centre	9735 4211	3 Maroondah Highway				Lilydale	Vic	3140	Australia	AKUY
+Lindisfarne Vet Clinic	6243 0083	27 Lincoln Street				Lindisfarne	Tas	7015	Australia	GKUW
+Living Jungle Dandenong	9794 7928	170-172 Princes Highway				Dandenong	Vic	3175	Australia	AJUZ
+Living Jungle Pet Warehouse Fawkner	9359 5577	573 Mahoneys Road				Fawkner	Vic	3060	Australia	AJUY
+Living Jungle Pet Warehouse Sunshine	9390 0123	586 Ballarat Road				Sunshine	Vic	3020	Australia	AJUY
+Lonely Pets Club	1 300 28 33 53	PO Box 1042				Brunswick	Vic	3056	Australia	ANTW
+Lort Smith Animal Hospital	9328 3021	24 Villiers Street				North Melbourne	Vic	3051	Australia	AKSY
+Lost Dogs Home	9329 6933	2 Gracie Street	Vet Clinic			North Melbourne	Vic	3051	Australia	AJUY
+LRS Quality Discount	5821 6238	114 High Street				Shepparton	Vic	3632	Australia	ANUW
+Luvya Pet Pty Ltd	5221 9668	137 Shannon Avenue				Geelong West	Vic	3218	Australia	AJTY
+Lyns Aussie Pet Supplies	5250 6250	33 Northview Drive				Leopold	Vic	3224	Australia	ANUY
+Mackay's - Frankston	9781 4366	6 Kookaburra Street				Frankston	Vic	3199	Australia	APSZ
+Mackay's Bayside Produce Stores - Head Office	9306 3178	Po Box 122				Glenroy	Vic	3046	Australia	ALSZ
+Mackay's Bayside Produce Stores - Somerville	5977 5203	Station Street				Somerville	Vic	3912	Australia	ALSZ
+Mad About Pets	9758 8838	"Shop 58, Mountain Gate S/Centre"	Ferntree Gully Road			Ferntree Gully	Vic	3156	Australia	AJTZ
+Makks Pet Supplies	9756 0557	48 Forest Road				Ferntree Gully	Vic	3156	Australia	AJTZ
+Malvern Central Vet Centre	9509 9744	90 Wattletree Road				Malvern	Vic	3144	Australia	AKUZ
+Malvern Vet Hospital	9509 7611	547 Dandenong Road				Armadale	Vic	3143	Australia	AKTZ
+Manningham Vet Clinic	9850 1600	22 Manningham Road				Bulleen	Vic	3105	Australia	AKTY
+Marion Pet Shop	08 8296 3416	Shop 1071 297 Diagonal Road	Westfield Marion Shopping Centre			Oaklands Park	SA	5046	Australia	EJSW
+Market Place Pets	9725 7797	"Shop 29, Croydon Centro"				Croydon	Vic	3136	Australia	AJTY
+Maroondah Produce	9753 6433	1140 Burwood Highway				Ferntree  Gully	Vic	3156	Australia	AJSZ
+Maroondah Vet Clinic	9870 0303	30 Maroondah Highway				Croydon	Vic	3136	Australia	AKUY
+Mega Pet Warehouse - Dandenong	9792 1395	"Shop 353, Dandenong Plaza"	29-33 McCrae Street			Dandenong	Vic	3175	Australia	AJSZ
+Mega Pet Warehouse - Epping	8405 3033	Epping Homemaker Centre	"Unit 2, 592 High Street"			Epping	Vic	3076	Australia	AJSY
+Mega Pet Warehouse - Head Office	9879 6299a	383 Maroondah Highway				Ringwood	Vic	3134	Australia	AJSYZ
+Mega Pet Warehouse - Hoppers Crossing	9748 5377	33-39 Heaths Road				Hoppers Crossing	Vic	3029	Australia	AJSY
+Mega Pet Warehouse - Ringwood	9879 6299	383 Maroondah Highway				Ringwood	Vic	3134	Australia	AJSY
+Melrose Animal Hospital	02 6056 1544	Cnr Melrose Drive & Brockley Street				Wadonga	Vic	3690	Australia	AKUW
+Mentone Vet Clinic	9583 4660	19 Balcombe Road				Mentone	Vic	3194	Australia	AKTZ
+Messy Pawz Pet Store	5941 6822	"Shop 5, 127 Main Street"				Pakenham	Vic	3810	Australia	AJTZ
+Middle Brighton Vet Clinic	9592 9811	632 Hampton Street				Brighton	Vic	3186	Australia	AKTZ
+Mild 2 Wild	0433 299 173	19 Willunga Way				Bundora	Vic	3083	Australia	ANUW
+Mill Park Animal Hospitals P/L	9437 7777	C/O Po Box 327				Whittlesea	Vic	3757	Australia	AKUY
+Mitcham Pet Hospital	9874 6151	599 Whitehorse Road				Mitcham	Vic	3132	Australia	AKTY
+Mitre 10 - Monbulk (Murphy's)	9756 6306	Cnr Main & Silvan Roads				Monbulk	Vic	3793	Australia	APUY
+Mitre 10 - Thornbury (Rex Paine)	9416 9244	685 High Street				Thornbury	Vic	3071	Australia	APUX
+Mitre 10 - Watsonia	9435 2555	45 Watsonia Road				Watsonia	Vic	3087	Australia	APUX
+Mitre 10 Hamilton (L.A. Walker)	5572 2255	92 Lonsdale Street				Hamilton	Vic	3300	Australia	APUW
+Monash Vet Clinic	9544 7455	1742 Dandenong Road	Cnr North Road			Clayton	Vic	3168	Australia	AKUZ
+Montmorency Vet	9435 1833	64 Sherbourne Road				Montmorency	Vic	3094	Australia	AKUY
+Montrose Pet Supplies	9728 5569	3 Leith Road				Montrose	Vic	3765	Australia	AJUY
+Moonee Central Vet	9375 7955	11 Everage Street				Moonee Ponds	Vic	3039	Australia	AKUY
+Moonee Valley Animal Hospital	9379 3007	216 Keilor Road				North Essendon	Vic	3041	Australia	AKUY
+Moorabbin Vet	9555 4808	328 South Road				Moorabbin	Vic	3189	Australia	AKSZ
+Moorholme Park	9338 0823	65-125 Bassett Road				Melbourne Airport	Vic	3045	Australia	AMUY
+Mop & Top Dogs	9457 6516	180 Burgundy Street				Heidelberg	Vic	3084	Australia	AOUY
+Mornington Lodge	5978 8383	Moorooduc Highway	(on the left before Cragie Rd)			Mornington	Vic	3931	Australia	AMUZ
+Mornington Pet Centre	5975 2420	"Shop 1, 26 McLaren Place"				Mornington	Vic	3931	Australia	AJUZ
+Mornington Petorium	5975 4847	"Factory 3, 3 Torca Terrace"				Mornington	Vic	3913	Australia	AJTZ
+Mornington Veterinary Clinic	5975 3811	339 Main Street				Mornington	Vic	3931	Australia	AKTZ
+Mt Barker Aquarium & Pet Supply	08 8398 5252	17 Walker Street				Mt Barker	SA	5251	Australia	EJUW
+Mt Eliza Pets	9787 3811	7/87 Mt Eliza Way				Mt Eliza	Vic	3930	Australia	AJTZ
+Mt Evelyn Vet Clinic & Animal Hospital	9736 3088	40 Hereford Road				Mt Evelyn	Vic	3796	Australia	AKTY
+Mt Martha Vet Clinic	5974 1199	6 Langrigg Avenue				Mt Martha	Vic	3934	Australia	AKUZ
+Mt Waverley Pets & Supplies	9888 1451	57 Wadham Parade				Mt Waverley	Vic	3149	Australia	AJTZ
+Mulgrave Vet Clinic	9561 0541	447 Wellington Road				Wheelers Hill	Vic	3150	Australia	AKUZ
+Murphy's Paw	9646 5150	401 Bay Street				Port Melbourne	Vic	3207	Australia	AJUY
+Mutz & Cutz Grooming	5367 3674	64a Grant Street				Bacchus Marsh	Vic	3340	Australia	AOUY
+Narre Pet & Aquarium Centre	9704 7615	Shop 2	420 Princes Hwy			Narre Warren	Vic	3805	Australia	AJUZ
+Narre Warren North Vet Clinic	9796 8266	405-411 Narre Warren North Rd				Narre Warren North	Vic	3804	Australia	AKUZ
+Narre Warren Produce & Pets	9704 6634	Unit 6 36 Lauberdale Road				Narre Warren	Vic	3805	Australia	AJUZ
+Narre Warren Vet Clinic	9704 6463	459 Princes Highway				Narre Warren	Vic	3805	Australia	AKTZ
+Nathalia Boarding Kennels & Cattery	5866 2000	Po Box 20				Nathalia	Vic	3638	Australia	AMUW
+Natural Balance	9338 7000	16 Dib Court				Tullamarine	Vic	3043	Australia	AJUY
+Naturally Stylin'	9553 1769	15 Spring Road				Highett	Vic	3190	Australia	AOUZ
+Newport Pet Shop	9391 9533	328 Melbourne Road				Newport	Vic	3015	Australia	AJSY
+Newtown Veterinary Clinic	5221 5333	121 West Fyans Street				Newtown	Vic	3220	Australia	AKUY
+Niddrie Vet Clinic	9379 8913	577 Keilore Road				Niddrie	Vic	3042	Australia	AKUY
+Noahs Ark Vet Services	02 4982 9899	Medowie Shopping Centre	Ferodale Road			Medowie	NSW	2318	Australia	BKTW
+Noble Park Animal Hospital	9547 8666	1169 Heatherton Road				Noble Park	Vic	3174	Australia	AKUZ
+North Balwyn Veterinary Hospital	9857 8100	341 Balwyn Road				North Balwyn	Vic	3104	Australia	AKUY
+North Croydon Veterinary Clinic	9726 9616	82-86 Exter Road				North Croydon	Vic	3136	Australia	AKTY
+North Randwick Veterinary Clinic	02 9314 5112	97-99 Albion Street				Randwick	NSW	2031	Australia	BKUW
+North Road Veterinary Centre	9596 4804	167 North Road				Gardenvale	Vic	3185	Australia	AKTZ
+North Templestowe Vet Hospital	9850 1355	Cnr Parker & Ruffey Streets				Templstowe Lower	Vic	3107	Australia	AKUY
+North Warrandyte Veterinary Clinic	9844 0781	"Shop 1, 266 Yarra Street"				Warrandyte	Vic	3113	Australia	AKTY
+Northcote Plaza Veterinary Clinic	9489 3322	43A Dennis Street				Northcote	Vic	3070	Australia	AKTY
+Northland Pet Centre	9478 2205	Northland Shopping Centre				Preston East	Vic	3072	Australia	AJUY
+Nunawading Birds & Pets (Pet Connection)	9874 3394	101 Springvale Road				Nunawading	Vic	3131	Australia	AJUY
+Oakleigh Central vet	9568 2211	121 Warrigal Road				Oakleigh	Vic	3166	Australia	AKUZ
+Ocean Keys Pets	08 9407 7670	6 Ocean Keys Blvd				Clarkson	WA	6030	Australia	FJUW
+Officer Grain Store	5943 2478	431 Princes Highway	Cnr Tivendale Road			Officier	Vic	3809	Australia	ALUZ
+Ooralea Pet & Vet Centre	07 4952 4622	31-33 Peak Downs Highway				Mackay	QLD	4741	Australia	CKUW
+Pakenham Produce & Saddlery	5941 1844	62 Station Street				Pakenham	Vic	3810	Australia	ALTZ
+Pakenham Vet Clinic	5941 3944	64 Main Street				Pakenham	Vic	3810	Australia	AKSZ
+Parkdale Vet Clinic	9580 3785	350 Como Parade West				Parkdale	Vic	3194	Australia	AKUZ
+Parkway Family Pet Centre	5995 8844	Shop 12	Cnr Sth Gippsland Hwy & Thompson Rd			Cranboroune North	Vic	3977	Australia	AJSZ
+Passion For Pets - Carrum Downs	9775 1361	3/544 Frankston-Dandenong Road 				Carrum Downs	Vic	3201	Australia	AJUZ
+Paw Relations	9846 8146	2/110 Wood Street				Templestowe	Vic	3106	Australia	AOUY
+Paws & Claws	9589 2639	"Shop 4, 350 Balcombe Road"				Beaumaris	Vic	3193	Australia	AJTZ
+Paws for a Clip	02 9449 5788	61 Kedumba Cresent				North Turramurra	NSW	2074	Australia	BOUW
+Paws Store	9397 8604	68 Stevedore Street				Williamstown	Vic	3015	Australia	AJTY
+Pawz n Clawz Pet Accomodation	08 8953 5590	47a Priest Street				Alice Springs	NT	871	Australia	DMTW
+Peninsula Animal Hospital	9787 3466	199 Mount Eliza Way				Mt Eliza	Vic	3930	Australia	AKSZ
+Peninsula Pet Clips	5981 1199	2B 5th Avenue				Rosebud	Vic	3939	Australia	AOUZ
+Peninsula Vet Care HQ	5987 2477a	27 McCulloch Street				Dromana	Vic	3936	Australia	AKTZ
+Permewans Hamilton	5572 2922	55-61 Cox Street				Hamilton	Vic	3300	Australia	APUW
+Pet Art (Closed Mondays)	9489 2557	78 Scotchmer Street				North Fitzroy	Vic	3068	Australia	AJSY
+Pet Bath Shop	9438 2300	53 Chute Street				Diamond Creek	Vic	3089	Australia	AOUY
+Pet Cafe - Ashgrove	07 3366 6925	10 Stewart Road				Ashgrove	QLD	4060	Australia	CJUW
+Pet Cafe - Cleveland	07 3821 0207	5/33-39 Shore Street West				Cleveland	QLD	4163	Australia	CJTW
+Pet Cafe - Greenslopes	07 3397 5477	589 Logan Road				Greenslopes	QLD	4122	Australia	CJUW
+Pet Care Vet Clinic	9700 5222	234 Power Road				Endeavour Hills	Vic	3802	Australia	AKUZ
+Pet Connection	9585 5098	"Shop 61, Direct Factory Outlets"	Cnr Centre Dandenong & Grange Roads			Cheltenham	Vic	3192	Australia	AJUZ
+Pet Love	9386 8466	329 Moreland Road				Coburg	Vic	3058	Australia	AJTY
+Pet Magic	08 9458 1970	"Shop 8, 1500 Albany Highway"				Cannington	WA	6107	Australia	FJUW
+Pet Mobile Whittlesea	9436 6297	31 Golf Links Drive				Mill Park	Vic	3082	Australia	AOUW
+Pet Pantry	9459 7110	7 Hartley Court				Rosanna	Vic	3084	Australia	ANUW
+Pet Perfection Dog Grooming	9562 1555	30 Columbia Drive				Wheelers Hill	Vic	3149	Australia	AOTZ
+Pet Transport Nowra	02 4421 8317	4 Peppermint Drive				Worrigee	NSW	2540	Australia	BNUW
+Petarazzi	9486 5544	74 High Street				Northcote	Vic	3070	Australia	AJTY
+Petchow.com	9548 2796	903A Springvale Road				Mulgrave	Vic	3175	Australia	AJTZ
+Pete's Pet Southgate Plaza	08 8382 4111	Cnr Hilliers & Sherriffs Roads				Morphett Vale	SA	5162	Australia	EJUW
+Peter Gibbs Stockfeeds	9300 2088	Hartington Street				Glenroy	Vic	3047	Australia	ALTY
+Petite Pets	9727 5832	12 Brice Avenue				Mooroolbark	Vic	3138	Australia	AJSY
+Pets & The City	9686 5252	25 Victoria Avenue				Albert Park	Vic	3206	Australia	AJSY
+Pets @ Gamon Street	9332 8313	71b Gamon Street				Seddon	Vic	3011	Australia	AJTY
+Pets at Port	02 6583 5550	"Unit 1, The Hub"	Bellbowrie Street			Port Macquarie	NSW	2444	Australia	BJUW
+Pets Bazarr	0402 238 973	1/303 Glen Eira Road				Caulfield North	Vic	3161	Australia	ANTZ
+Pets Best Friend Australia	0419 007 151	PO Box 82				Ormond	Vic	3204	Australia	AJSZ
+Pets Best Friend Carnegie	9563 4065	152 Koonang Road				Carnegie	Vic	3163	Australia	AJSZ
+Pets Best Friend Elsternwick	9532 8450	321 Glenhuntly Road				Elsternwick	Vic	3185	Australia	AJSZ
+Pets Best Friend Prahran	9510 4919	184-186 Chapel Street				Prahran	Vic	3181	Australia	AJSZ
+Pets Best Friend Southland	9585 5573	"Shop 1035, "	Westfield Shoppingtown Southland			Cheltenham	Vic	3192	Australia	AJSZ
+Pets Corner Store	5248 7066	Cnr Albert & Portarlington Roads				Moolap	Vic	3221	Australia	AJUY
+Pets For Us - Grovedale / Geelong Pet Supplies	5241 3266	Cnr Torquay  & Marshalltown Roads				Grovedale	Vic	3216	Australia	AJTY
+Pets Legend	9802 2741	Shop 7 The Village Walk				Glen Waverley	Vic	3150	Australia	ALUZ
+Pets on Brunswick	9417 1400	423a Brunswick Street				Fitzroy	Vic	3065	Australia	AJSY
+Pets Paradise - Altona Gate	9325 1537	Shop U10	Millers Road	Altona Gate Shopping Centre		Altona North	Vic	3025	Australia	AJUY
+Pets Paradise - Brandon Park	8561 0811	Shop 102	Brandon Park Shopping Centre			Wheelers Hill	Vic	3170	Australia	AJTZ
+Pets Paradise - Cannonvale Superstore	07 4948 1183	54 Valley Drive				Cannonvale	QLD	4802	Australia	CJUW
+Pets Paradise - Castle Towers	02 9894 6571	Shop 491 Upper Level Castle Towers				Castle Hill	NSW	2154	Australia	BJUW
+Pets Paradise - Dandenong	9794 8280	Shop 373 Dandenong Plaza	Cnr McCrae & Walker			Dandenong	Vic	3175	Australia	AJUZ
+Pets Paradise - Eastland	9879 8299	"Shop L43, Eastland Shopping Centre"				Ringwood	Vic	3134	Australia	AJUY
+Pets Paradise - Forest Hill	9878 2798	Shop 164 Forest Hill Chase S/C	Cnr Canterbury  & Mahoneys Roads			Forest Hill	Vic	3131	Australia	AJUY
+Pets Paradise - Fountain Gate	9704 6633	Shop 2043	Fountain Gate Shopping Centre			Narre Warren	Vic	3805	Australia	AJUZ
+Pets Paradise - Karingal	9789 7100	330 Cranbourne Road	Karingal Hub Shopping Centre			Karingal	Vic	3199	Australia	AJUZ
+Pets Paradise - Southland	9584 8820	"Level 1, Shop 1138"	Westfield Shopping Centre			Cheltenham	Vic	3192	Australia	AJUZ
+Pets Paradise - Werribee	9749 4052	Werribee Plazza Shopping Centre	Heaths Road			Werribee	Vic	3030	Australia	AJUY
+Pets R People 2	9836 7081	902 Riversdale Road				Camberwell	Vic	3124	Australia	AJTZ
+Pets Wonderland - Westfield (F)	9310 4426	Shop 26	Westfield Shopping Centre			Airport West	Vic	3042	Australia	AJTY
+Pets Wonderland Bentleigh (F)	9557 8691	385 Centre Road				Bentleigh	Vic	3204	Australia	AJTZ
+Pets Wonderland Moonee Ponds (F)	9375 7426	127 Puckle Street				Moonee Ponds	Vic	3039	Australia	AJTY
+Pets Wonderland Northcote (F)	9481 8680	Northcote Plaza	Seperation Street			Northcote	Vic	3070	Australia	AJTY
+Petsco	5428 2000	171 Panorama Drive				Gisborne	Vic	3437	Australia	ANUW
+Petshopper Pet Foods & Accessories	9853 9328	1/4 Walpole Street				Kew	Vic	3101	Australia	AJTY
+Petstock - Albury	02 6040 7600	"Unit 1, 334 Wagga Road"				Lavington	NSW	2641	Australia	BJUW
+Petstock - Ballarat	5336 1788	909 Latrobe Street				Ballarat	Vic	3350	Australia	AJUY
+Petstock - Castlemaine (Taylor Brothers)	5472 1016	73 Forest Street				Castlemaine	Vic	3450	Australia	ALUW
+Petstock - Cranbourne	5996 2726	202 Sladen Street				Cranbourne	Vic	3977	Australia	ALUZ
+Petstock - Geelong	5241 3713	150 Barwon Heads Road				Belmont	Vic	3216	Australia	AJUY
+Petstock - Gisborne	5428 2381	20 Robertson Street				Gisborne	Vic	3437	Australia	ALUW
+Petstock - Head Office	5336 1788a	PO Box 203				Sebastopol	Vic	3356	Australia	AJY
+Petstock - Hopper Crossing	9369 9955	433 Old Geelong Road				Hoppers Crossing	Vic	3029	Australia	AJUY
+Petstock - Horsham	5382 4004	51 Urquhart Street				Horsham	Vic	3400	Australia	ALUW
+Petstock - Mornington	5975 7477	Blding A5 Peninsula Lifestyle Centre	1128-1132 Nepean Highway			Mornington	Vic	3931	Australia	ALUZ
+Petstock - Shepparton	5821 3199	210 Benalla Road				Shepparton	Vic	3630	Australia	ALUW
+Petstock - South Morang	9436 5833	441 McDonalds Road				South Morang	Vic	3752	Australia	AJUY
+Petsville - Morwell	5134 3762	"Shop 2,3 Vestan Drive"				Morwell	Vic	3840	Australia	AJUW
+Petsville -Traralgon	5174 1511	124 Franklin Street				Traralgon	Vic	3844	Australia	AJUW
+Petsworld - Welland	08 8340 3032	58 Grange Road				Welland	SA	5007	Australia	EJUW
+Planet Pooch	02 9399 8284	29 Clovelly Road				Randwick	NSW	2031	Australia	BJUW
+Plenty For Pets	9467 3155	1173 Plenty Road				Bundoora	Vic	3083	Australia	AJTY
+PolaPaws	07 5575 2546	5/37 Hillcrest Parade				Miami	Qld	4220	Australia	CQSW
+Pooch Parlour	9842 3472	40 Ireland Avenue				Doncaster East	Vic	3109	Australia	AOUY
+POPPETS (Pampering Our Precious Pets)	9589 1666	46 East Concourse				Beaumaris	Vic	3193	Australia	AJTZ
+Port Melbourne Vet Clinic	9646 5300	109 Bay Street				Port Melbourne	Vic	3207	Australia	AKUY
+Posh Pets	07 5527 0016	Shop 3a Marina Mirage	Seaworld Drive			Main Beach	QLD	4217	Australia	BJUW
+Possum Pet Supplies	5332 2799	"Shop 9, 1-3 Eastwood Street"				Ballarat	Vic	3350	Australia	AJUY
+Pound Road Vet	9799 1499	8 Pound Road				Hampton Park	Vic	3976	Australia	AKUZ
+Prahran/Toorak Vet Hospital	9510 1335	682 Malvern Road				Prahran	Vic	3181	Australia	AKSZ
+Preston Vet Clinic	9484 1908	267-271 Bell Street				Preston	Vic	3072	Australia	AKUY
+Pretty Paws	9748 9611	7 Citrus Close				Hoppers Crossing	Vic	3029	Australia	AJUY
+Priority Pets	9791 8021	154 Cheltenham Road				Dandenong	Vic	3175	Australia	AJTZ
+Pup Pup Puppies	9894 2880	106 Canterbury Road				Blackburn South	Vic	3130	Australia	AJTY
+Puppies R Us	9894 8600	161 Springvale Road				Nunawading	Vic	3131	Australia	AJSY
+Puppy Phat	9500 1220	1250 High Street				Armadale	Vic	3143	Australia	AOTZ
+Purrfect Pets & Grooming	9564 7699	70 Portman Street				Oakliegh	Vic	3166	Australia	AJUZ
+Purrs & Paws Pet Resort	08 8983 1431	"PO Box 903, 85Mahaffey Road"				Howard Springs	NT	835	Australia	DMUW
+Pykes Pets & Cycles	5358 3133	57 Main Street				Stawell	Vic	3380	Australia	AJUW
+Rainbow Jungle	9830 4455	280 Canterbury Road				Surrey Hills	Vic	3127	Australia	AJTY
+Redmans Hardware	9859 2829	1148-1152 Burke Road				North Balwyn	Vic	3104	Australia	APUY
+Reigning Cats & Dogs	02 9970 8440	"Shop 65, Jackson Road"	Warriewood Shopping Centre			Warriewood	NSW	2102	Australia	BJUW
+Rell's Pet Service	0500 500 786	6 Phillip Road				Leppington	NSW	2171	Australia	BJUW
+Research Stockfeed	9437 2609	Factory 5	1635 Main Road			Research	Vic	3095	Australia	AJTY
+Richmond Pet Supplies	9421 4950	419 Bridge Road				Richmond	Vic	3121	Australia	AJSY
+Richmond Vet Hospital	9428 2220	259 Church Street				Richmond	Vic	3121	Australia	AKUY
+Rigbys Rescue Inc	5968 9167	3 Ferngully Road				Cockatoo	Vic	3781	Australia	ANTW
+Rilten Boarding Kennels & Cattery	9436 1494	84 Ashley Road				Yarrambat	Vic	3091	Australia	AMUY
+Ringwood East Personal Vet Care	9879 2803	106 Railway Avenue				Ringwood East	Vic	3135	Australia	AKTY
+Ringwood Vet Clinic	9870 6440	1 Maroondah Highway				Ringwood	Vic	3134	Australia	AKUY
+Robbo's Pet Barn - Dandenong	9794 5544	31A Princes Highway				Dandenong	Vic	3175	Australia	AJSZ
+Robin Avenue Pet Supplies	5275 6801	68a Robin Avenue				Norlane	Vic	3214	Australia	AJTY
+Robinson Vet Clinic	9785 9288	210 Karingal Drive				Frankston	Vic	3199	Australia	AKUZ
+Rojan Pet Supplies	5443 0602	82 Pall Mall				Bendigo	Vic	3550	Australia	AJUW
+Roll Over Rova Pet Supplies	5241 9755	5/154 Torquay Road				Grovedale	Vic	3216	Australia	AJSY
+Rosebud Veterinary Clinic	5986 2254	1579 Point Nepean Road				West Rosebud	Vic	3040	Australia	AKTZ
+Rowville Vet Clinic	9763 1799	919 Stud Road				Rowville	Vic	3178	Australia	AKTZ
+Roxburgh Park Veterinary Clinic	9305 4297	"Shop 8, Homestead S/C"	101 Ravenhill Boulevard			Roxburgh	Vic	3064	Australia	AKTY
+RSPCA - Adelaide (SA)	08 8212 6871	172 Morphett Street				Adelaide	SA	5000	Australia	EJUW
+RSPCA - Albury (NSW)	02 6021 5220	610 Hume Street				Albury	NSW	2640	Australia	BJUW
+RSPCA - Ballarat (Vic)	5334 2075	115 Gillies Street				Ballarat	Vic	3350	Australia	AJUY
+RSPCA - Bendigo (Vic)	5441 2209	Piper Lane				East Bendigo	Vic	3550	Australia	AJUW
+RSPCA - Blue Mountains (NSW)	02 4782 5027	121-125 Mort Street				North Katoomba	NSW	2780	Australia	BJUW
+RSPCA - Burwood (Vic)	9224 2222	3 Burwood Highway				Burwood East	Vic	3151	Australia	AJSY
+RSPCA - Canberra (ACT)	02 6288 4433	12 Kirpatrick Street				Weston	ACT	2611	Australia	BJUW
+RSPCA - Castlemaine (Vic)	5472 5277	Langslow Street				Castlemaine	Vic	3450	Australia	AJUW
+RSPCA - Central Australia (NT)	08 8953 4430	PO Box 2153	Len Kittle Drive			Alice Springs	NT	871	Australia	DNUW
+RSPCA - Central Gippsland (Vic)	5146 7008	336 Raymond Street				Sale	Vic	3850	Australia	AJUW
+RSPCA - Davonport (Tas)	03 6427 2566	108 Tarleton Road				Spreyton	Tas	7310	Australia	AJUW
+RSPCA - East Gippsland (Vic)	5156 5529	2 Grey Street				Lakes Entrance	Vic	3909	Australia	AJUW
+RSPCA - Geelong (Vic)	5222 2693	316 Pakington Street				Newtown	Vic	3220	Australia	AJSY
+RSPCA - Goulburn (NSW)	02 4821 2991	99 Taralga Road				Goulburn	NSW	2580	Australia	BJUW
+RSPCA - Launceston	03 6326 6120	PO Box 66				Mowbray	Tas	7248	Australia	GJTW
+RSPCA - Lonsdale (SA)	08 8382 0888	25 Meyer Road				Lonsdale	SA	5160	Australia	EJUW
+RSPCA - Mornington (Tas)	6244 3033	553 Pass Road				Mornington	Tas	7018	Australia	GJUW
+RSPCA - Pearcedale (Vic)	5978 6706	1030 Robinsons Road				Pearcedale	Vic	3912	Australia	AMSZ
+RSPCA - Portland (Vic)	5523 4690	185 Darts Road				Portland	Vic	3305	Australia	AJUW
+RSPCA - Strezelecki (Vic)	5126 2662	37 Lloyd Street				Moe	Vic	3825	Australia	AJUW
+RSPCA - Sunraysia (Vic)	5021 3220	200 Deakin Avenue				Mildura	Vic	3500	Australia	AJUW
+RSPCA - Swan Hill ( Vic)	5032 1950	45 McCallum Street				Swan Hill	Vic	3585	Australia	AJUW
+RSPCA - Sydney (NSW)	02 8666 0106	201 Rookwood Road				Yagoona	NSW	2199	Australia	BJTW
+RSPCA - Ulladulla (NSW)	02 4454 0217	PO Box 659				Ulladulla	NSW	2539	Australia	BJUW
+RSPCA - Wangaratta (Vic)	5722 2874	1 Wills Street				Wangaratta	Vic	3676	Australia	AJUW
+RSPCA - Warrnambool (Vic)	5561 2591	23 Braithwaite Street				Warrnambool	Vic	3280	Australia	AJUW
+Ruben's Blackwood Pet Food	08 8278 7206	168-170 Main Road				Blackwood	SA	5051	Australia	EJUW
+Ruth Hamilton Dog Grooming	0425 758 335	42 Margate Cresent				Glen Waverley	Vic	3150	Australia	AOSW
+Rye Beach Vet Hospital	5985 7011	27 Dundas Street				Rye	Vic	3941	Australia	AKTZ
+Rye Produce & Nursery	5985 4282	2151 Point Nepean Road				Rye	Vic	3941	Australia	AJSZ
+Rye Veterinary Clinic	5985 6644	2261 Pt Nepean Road				Rye	Vic	3941	Australia	AKSZ
+Sale Pet & Aquarium Supplies	5144 1574	340 Raymond Street				Sale	Vic	3850	Australia	AJUW
+Sandringham Vet	9598 3621	262 Bluff Road				Sandringham	Vic	3191	Australia	AKUZ
+Scruba-Dub-Dog Ferntree Gully	9753 6411	1156 Burwood Highway				Ferntree Gully	Vic	3156	Australia	AJUZ
+Scruba-Dub Dog Hallam	9702 3350	261 Princes Highway				Hallam	Vic	3803	Australia	AJSZ
+Seville Stockfeed	5964 3222	Lot 7 Bell Street				Seville	Vic	3139	Australia	ALTY
+Seville Veterinary Clinic	5964 3960	Lot 7 Bell Street				Seville	Vic	3139	Australia	AKTY
+Shepparton Veterinary Clinic	5821 3188	Cnr Wanganui Rd & Numurkah Rd				Shepparton	Vic	3632	Australia	AKTW
+Silverpoodle	9578 4621	107 McKinnon Road				McKinnon	Vic	3204	Australia	AOUZ
+Sirius Dog Grooming	9457 2244	1/23 Edward Street				Macleod	Vic	3085	Australia	AOUW
+Somerville Pet Shop	5977 5011	Shop 19 17 Eramosa Road	Somerville Plaza			Somerville	Vic	3912	Australia	AJUZ
+Somerville Vet Clinic	5977 6888	1178 Frankston-Flinders Road				Somerville	Vic	3192	Australia	AKUZ
+South Melbourne Market Pet Shop	0419 873 593	Cnr Cecil & York Streets	Stall 100			South Melbourne	Vic	3205	Australia	AJSY
+South Melbourne Vet Clinic	9699 9137	220 Ferrars Street				South Melbourne	Vic	3205	Australia	AKUY
+South Road Animal Health	9555 1899	565 South Road				Bentleigh	Vic	3204	Australia	AKSZ
+Sparrow in the Tree Tops	9436 1307	72 Ashley Road				Yarrambat	Vic	3091	Australia	AMUY
+Specialty Mix Stock Food	9311 7074	39 Wright Street				Sunshine	Vic	3020	Australia	AJSY
+Springvale Animal Hospital	9546 5022	570 Springvale Road				Springvale South	Vic	3172	Australia	AKUZ
+St Andrews Stockfeed	9710 1673	66 Main Street				St Andrews	Vic	3761	Australia	ALUW
+Stockfeed Plus	0439 989 093	1996 Bass Highway				Corinella	Vic	3984	Australia	ALSZ
+Strathmore Veterinary Clinic	9379 3438	333 Napier Street				Strathmore	Vic	3041	Australia	AKSY
+Stud Park Veterinary Hospital	9763 6088	1103 Stud Road				Rowville	Vic	3178	Australia	AKUZ
+Studio Pets	9597 0557	64 Bay Road				Sandringham	Vic	3191	Australia	AJUZ
+Tara Boarding Kennels	02 6247 5227	9 Beltana Road				Pialligo	ACT	2609	Australia	HMUW
+Templestowe Vet	9850 5046	288 Manningham Road				Templestowe	Vic	3106	Australia	AKUY
+Test Card 1234567890123456789012345678901234567890	9455 2277	119 McEwan Road1234567890123	1.23457E+27			West Heidelberg	Vic	3081	Australia	ANSX
+The Cat Clinic	9533 8955	1 Miller Street				Prahran	Vic	3181	Australia	AKTZ
+The Cat Corner	9762 5449	279 Boronia Road				Boronia	Vic	3155	Australia	AJTZ
+The CatDog Deli	9859 1791	66C Doncaster Road				Balwyn North	Vic	3104	Australia	AJTY
+The Dog House	07 4031 7544	59 Anderson Street				Manunda	QLD	4870	Australia	CJUW
+The Dog Shop	9478 6364	11/800 Plenty Road				Reservoir	Vic	3073	Australia	ANTY
+The Itty Bitty Pet Shop	9585 8455	257 Charman Road				Cheltenham	Vic	3192	Australia	AJTZ
+The Meadows Produce & Pet Supplies	9761 4506	6/161 Canterbury Road				Kilsyth	Vic	3137	Australia	ALUY
+The Pet Shed	9330 3766	8-10 Victory Road				Airport West	Vic	3042	Australia	AJSY
+The Pines Pet Centre	9842 4577	"Pines Shopping Centre, Shop 69"	Cnr Blackburn & Reynolds Rd			East Doncaster	Vic	3109	Australia	AJUY
+The Village Vet / Turbo Direct Pty Ltd	9827 7500	397 Toorak Road				South Yarra	Vic	3141	Australia	AKTZ
+The Yuppy Puppy Grooming Salon	9888 4993	83 Canterbury Road				Canterbury	Vic	3126	Australia	AOUY
+Thinking Pet Care	5339 3986	80a Learmonth Road				Wendouree	Vic	3355	Australia	AJTY
+Thrift Park Pet Centre	9583 2472	Shop 25	16 Lower Dandenong Road			Mentone	Vic	3194	Australia	AJUZ
+Top of the Town Pet Supplies	9736 1677	19 York Road				Mt Evelyn	Vic	3797	Australia	AJTY
+Totally Tracey	0414 497 201	95 Wyadra Avenue				North Manly	NSW	2100	Australia	BOUW
+Tunstall Pets & Produce	9842 3027	43 Tunstall Square				Doncaster East	Vic	3109	Australia	AJUY
+Ultimate Dog Care	9460 2955	25 Thrower Street				Preston	Vic	3072	Australia	AJUY
+Unique Pets & Pales 4 Scales	5339 3887	1013 Howitt Street				Wendouree	Vic	3355	Australia	AJUY
+Upmarket Pets	9600 9120	440 Queen Street				Melbourne	Vic	3000	Australia	AJSY
+Valley Pets	5174 9947	101 Seymour Street				Traralgon	Vic	3844	Australia	AJTW
+Van De Pol Stockfeeds Australia Pty Ltd	9374 2277	DFO Extension	Cnr Bulla Rd & Tullamarine Fwy	Essendon Airport		Essendon North	Vic	3041	Australia	ALSY
+VI Pet Supplies	9899-7055	197A Middleborough Road				Box Hill South	Vic	3128	Australia	AJUY
+Victorian Animal Aid Trust -  H/Q	9739 0300	35 Killara Road				Coldstream	Vic	3770	Australia	AJSY
+Victorian Obedience Dog Club Inc	9569 8195	17 Rotherwood Drive				Malvern East	Vic	3148	Australia	ANUZ
+W.T. Murphy Bros	9882 2295	592 Burwood Road Cnr Auburn Road				Hawthorn	Vic	3122	Australia	AJSZ
+Wandin Veterinary Clinic	5964 4500	367 Warburton Highway				Wandin North	Vic	3139	Australia	AKTY
+Warrandyte Vet Clinic	9844 3071	Lwr Cnr Melbourne Hill	& Houghton Roads			Warrandyte	Vic	3133	Australia	AKUY
+Warranwood Vet	9879 0900	1 Colman Road				Warranwood	Vic	3134	Australia	AKUY
+Warringal Veterinary Hospital	9459 9590	105 Cape Street				Heidelberg	Vic	3084	Australia	AKTY
+Watsonia Pets & Supplies	9432 4979	81 Watsonia Road				Watsonia	Vic	3087	Australia	AJTY
+Watsonia Vet Centre	9432 7207	127 Watsonia Road				Watsonia	Vic	3087	Australia	AKTY
+Welcombe Boading Kennels	9436 2240	605 Yan Yean Road				Yarrambat	Vic	3091	Australia	AMUY
+West Coast Embroidery	5256 3833	23 Blue Waters Drive				Ocean Grove	Vic	3226	Australia	ANTW
+West Coast Pet Care Centre	08 9306 2767	49 Adams Road				Mariginiup	WA	6065	Australia	FJUW
+West Doncaster Veterinary Clinic	9848 4111	480 Doncaster Road				Doncaster	Vic	3108	Australia	AKTY
+West Footscray Vet Clinic	9687 4542	689 Barkly Street				West Footscray	Vic	3012	Australia	AKUY
+West River Pet Supplies	9741 6147	64 Watton Street				Werribee	Vic	3030	Australia	AJUY
+Westernport Pet Supplies	5979 4232	Shop 3 & 4	110 High Street			Hastings	Vic	3915	Australia	AJSZ
+Whitford City Pet Shop	08 9401 5551	Shop 2 Whitford City Shopping Centre				Hillarys	WA	6025	Australia	FJUW
+Whoopsy's Pty Ltd	9531 6060	18 Ormond Road				Elwood	Vic	3184	Australia	AJSZ
+Wildlife in Secure Enviroment Inc	9882 1900	15 Hastings Road				Hawthorn East	Vic	3123	Australia	ANUW
+Williamstown Veterinary Hospital	9397 8002	137 Railway Place				Williamstown	Vic	3016	Australia	AKTY
+Wonthaggi Feed Barn	5672 5600	329 White Road				Wonthaggi	Vic	3995	Australia	ALUW
+Woodgrove Pet Centre	9743 0533	Shop T42 Woodgrove S/C	High Street			Melton	Vic	3337	Australia	AJUY
+Woodside Boarding Cattery	08 8389 7499	5 Verco Road				Woodside	SA	5244	Australia	AMUW
+Woori Yallock Pet & Produce	5964 6181	1598 Warburton Highway				Woori Yallock	Vic	3139	Australia	ALTY
+Wunder Mutt Pets	5427 3603	"Shop 6, 130 High Street"				Woodend	Vic	3442	Australia	AJUW
+Yarrambat Vet	9436 1699	54 Yan Yean Road				Yarrambat	Vic	3091	Australia	AKUY
+Yarraville Veterinary Clinic	9314 8945	291 Williamstown Road				Yarraville	Vic	3013	Australia	AKTY
+Yarraville Village Vet	9689 8100	110 Stephen Street				Yarraville	Vic	3013	Australia	AKTY
+Your Local Pet Store	9532 9392	432 Glenhuntly Road				Elsternwick	Vic	3185	Australia	AJUZ
+Your Pet Grooming Service	9754 3956	Shop 25 Main Street				Upwey	Vic	3158	Australia	AOTZ
+Zac's on Sorrento	5984 5158	170 Ocean Beach Road				Sorrento	Vic	3943	Australia	AJTZ
+Zacs Pet Supplies	9486 8445	362 Queens Parade				Clifton Hill	Vic	3068	Australia	AJSY
+Zoo Products Brighton	9593 1205	Shop 2 52 Church Street				Brighton	Vic	3186	Australia	AJTZ
+Zoo Products Head Office	9564 7699a	Shop 2 52 Church Street				Brighton	Vic	3186	Australia	ANTZ
+Zoo Products Malvern	9509 7943	205 Glenferrie Road				Malvern	Vic	3144	Australia	AJTZ

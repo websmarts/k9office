@@ -1,0 +1,127 @@
+.flash_error {color: red; padding:4px; border:1px solid red}
+.flash_message {color: green;padding:4px; border:1px solid green}
+.center {text-align: center}
+body {margin:5px;}
+#header {
+    height:75px;
+    background: #fff;
+    margin-bottom:20px;
+    font-size:273%;
+    color:#444;
+}
+#content_container {background: #eee;clear:both} 
+
+a {
+	background-color: inherit;
+	color: #003d4c;
+	text-decoration: underline;
+	font-weight: bold;
+}
+a:hover {
+	background-color: inherit;
+	color: #003d4c;
+	text-decoration:none;
+}
+a img {
+	border:none;
+}
+
+.hint {font-size:70%}
+.detail {
+    font-weight: bold;
+    color: #448;
+    background: #fff;
+    display: block;
+}
+.hidden {display:none}
+.invisible{visibility:hidden}
+
+h1 {font-size:120%;color: #fff; background:#048; font-family:verdana,arial,sans-serif;text-align:left}
+h2 {color:#44c;margin-top:0}
+h3 {color:#fcf;margin: 0;padding:3px}
+h4{margin-bottom:10px;}
+#ft{text-align: center;color: #888;margin-top:10px}
+label{display:block; float: left; width:160px; }
+input.formfield {width:350px;}
+
+.subPanel {
+	border: 1px solid #888;
+	padding:3px;
+	border-bottom:3px solid #666;
+	margin-top:5px;
+	padding-bottom:20px;
+	}
+.tainted { color:red}
+
+#yui-dt1-bodytable {width:500px}
+#yui-dt2-bodytable {width:700px}
+.yui-dt-col-note {width:360px;}
+
+
+/* Product Option styles */
+.opt_ff0000 {/* Red*/
+ background:#ff0000;
+}
+.opt_00ff00 {/*green*/
+ background:#00ff00;
+}
+.opt_0000ff {/*blue*/
+ background:#0000ff;
+ color:#fff;
+}
+.opt_8080ff {/*lightblue*/
+ background:#8080ff;
+}
+.opt_000066 {/*darkblue*/
+ background:#000066;
+ color:#fff;
+}
+.opt_ff00ff {/*Purple*/
+ background:#ff00ff;
+}
+.opt_ffff00{/* yellow */
+	background:#ffff00;	
+}
+.opt_ffff40{/* gold */
+	background:#ffff40;	
+}
+.opt_663300{/* brown */
+	background:#663300;	
+	color:#ffffff;
+}
+.opt_ff8000{/* orange */
+	background:#ff8000;	
+	color:#ffffff;
+}
+.opt_000000{/* black */
+	background:#000000;	
+	color:#ffffff;
+}
+.opt_998855{/* beige */
+	background:#998855;	
+	color:#000;
+}
+.opt_ffcccc{/*PINK*/
+ background:#ffcccc;
+ color:#000;
+ }
+ .opt_cc9933{/*TAN*/
+ background:#cc9933;
+ color:#000;
+ }
+
+ table#myTable th.sort {
+ 	text-decoration: underline;
+ 	color: blue;
+ }
+
+ @media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
+
+
+

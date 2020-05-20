@@ -1,0 +1,45 @@
+#rego{
+    width:500px;
+    margin:0 auto;
+}
+
+#rego form { 
+    
+    border: 1px solid #ccc; 
+    padding:20px;
+    
+}
+
+#rego form label {
+    width:220px;
+    margin-right: 20px;
+    text-align: right;
+}
+
+#rego form input {
+    width: 200px;
+    font-size:120%;
+    
+}
+
+#rego form .button {width:100px; }
+
+#rego form .row {
+    clear:both;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #red;
+    overflow: hidden;
+}
+#rego table {
+     
+     background: #eee;
+     border: 1px solid #ccc;
+     width:100%;
+ }
+ #rego p {
+     
+     
+ }
+ 
+ .flash_message, .flash_error {width: 492px; margin:0 auto;margin-bottom:20px;}
