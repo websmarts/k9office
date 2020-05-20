@@ -6,7 +6,7 @@ define('DS', '/');
 
 
 
-if ($_SERVER['SERVER_NAME'] == 'ecat.test') {
+if ($_SERVER['SERVER_NAME'] == 'k9web.test') {
 
     // development
 
