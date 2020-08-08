@@ -36,7 +36,7 @@ if ($_SERVER['SERVER_NAME'] == 'k9homes.com.au.test') {
 
 } else {
 
-
+    define('APP_MODE', 'production');//added as  used in catalog session handler
 
     define('CORE_DIR', './mf4/');
 
