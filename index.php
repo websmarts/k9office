@@ -50,7 +50,7 @@ if ($_SERVER['SERVER_NAME'] == 'k9homes.com.au.test') {
 
     define('SHOW_DEBUG', false);
 
-    define('SHOW_ERRORS', 2);
+    define('SHOW_ERRORS', 4);
 
 
 
