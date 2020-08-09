@@ -1,93 +1,90 @@
 <?php
 
-  class Config {
+class Config
+{
 
-  
 
-        private static  $instance = NULL;
 
-        protected  $__data = array(); 
+    private static  $instance = NULL;
 
-    
+    protected  $__data = array();
 
-        public static function singleton() {
 
-            if (self::$instance == NULL) {          
 
-                self::$instance = new Config(); 
+    public static function singleton()
+    {
 
-            } 
+        if (self::$instance == NULL) {
 
-                return self::$instance;   
-
+            self::$instance = new Config();
         }
 
-        
+        return self::$instance;
+    }
 
-        // make PRIVATE to stop anyone using NEW or CLONE
 
-        private function __construct() {}
 
-        private function __clone(){}
+    // make PRIVATE to stop anyone using NEW or CLONE
 
-        
+    private function __construct()
+    {
+    }
 
-        public function __get($property) {
+    private function __clone()
+    {
+    }
 
-            if (isSet($this->__data[$property])) {
 
-                return $this->__data[$property];
 
-            } else {
+    public function __get($property)
+    {
 
-                return false;
+        if (isset($this->__data[$property])) {
 
-            }    
+            return $this->__data[$property];
+        } else {
 
+            return false;
         }
+    }
 
-        
 
-        public function __set($property,$value) {
 
-            $this->__data[$property] = $value;
+    public function __set($property, $value)
+    {
 
-        }
+        $this->__data[$property] = $value;
+    }
 
-        
 
-        public  function __isset($property){
 
-            if (isSet($this->__data[$property])){
+    public  function __isset($property)
+    {
+
+        if (isset($this->__data[$property])) {
 
             return true;
+        } else {
 
-            } else {
-
-                return false;
-
-            }
-
+            return false;
         }
+    }
 
- 
 
-        public  function __unset($property){
 
-        
+    public  function __unset($property)
+    {
 
-            if ( isSet($this->__data[$property]) ) {
 
-                unset( $this->__data[$property] );
 
-                return true;
+        if (isset($this->__data[$property])) {
 
-            } else {
+            unset($this->__data[$property]);
 
-                return false;
+            return true;
+        } else {
 
-            }
-
-        }       
-
-  }
+            return false;
+        }
+    }
+}

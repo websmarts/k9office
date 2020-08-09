@@ -9,8 +9,11 @@ class DB
     public function __construct()
     {
         // private  to stop new
-        $this->dbh = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_DATABASE) or die("Could not connect : " . mysql_error());
+        $this->dbh = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_DATABASE);
 
+        if (!$this->dbh) {
+            die("Could not connect : " . mysqli_connect_error());
+        }
     }
 
     public function __clone()
@@ -18,21 +21,23 @@ class DB
     }
 
     public function dbh()
-    {return $this->dbh;}
+    {
+        return $this->dbh;
+    }
 
     public function quote($data, $type = 'varchar')
     {
-        return in_array($type, array
-            (
-                'varchar',
-                'char',
-                'date',
-                'datetime',
-                'blob',
-                'mediumblob',
-                'text',
-                'mediumtext',
-            )) ? "'" . mysqli_real_escape_string($this->dbh, $data) . "'" : $data;}
+        return in_array($type, array(
+            'varchar',
+            'char',
+            'date',
+            'datetime',
+            'blob',
+            'mediumblob',
+            'text',
+            'mediumtext',
+        )) ? "'" . mysqli_real_escape_string($this->dbh, $data) . "'" : $data;
+    }
 
     public function execute($sql)
     {
@@ -89,15 +94,13 @@ class DB
                 while ($row = mysqli_fetch_assoc($query)) {
                     $result[] = $row;
                 }
-                return array
-                    (
+                return array(
                     'replyCode' => '200',
                     'replyText' => 'Ok',
                     'data' => $result,
                 );
             } else {
-                return array
-                    (
+                return array(
                     'replyCode' => '500',
                     'replyText' => $this->error . " SQL=" . $sql,
                     'data' => array(),
@@ -160,7 +163,9 @@ class DB
     }
 
     public function updateRecord($table, $data, $where = '')
-    {$this->query(update_string($table, $data, $where));}
+    {
+        $this->query(update_string($table, $data, $where));
+    }
 
     public function insertRecord($table, $data, $key = 'id')
     {

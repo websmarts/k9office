@@ -1,12 +1,13 @@
 <?php
 
+include_once('../config.php');
 
 
 define('DS', '/');
 
 
 
-if ($_SERVER['SERVER_NAME'] == 'k9homes.com.au.test') {
+if (APP_MODE == 'development') {
 
     // development
 
@@ -30,13 +31,14 @@ if ($_SERVER['SERVER_NAME'] == 'k9homes.com.au.test') {
 
 
 
+
     // define('SESSION_ID', 'evoipoqt9');
 
 
 
-} else {
+} else if (APP_MODE == 'production') {
 
-    define('APP_MODE', 'production');//added as  used in catalog session handler
+    //define('APP_MODE', 'production');//added as  used in catalog session handler
 
     define('CORE_DIR', './mf4/');
 
@@ -58,6 +60,8 @@ if ($_SERVER['SERVER_NAME'] == 'k9homes.com.au.test') {
 
 
 
+} else {
+    die('APP_MODE is not valid');
 }
 
 
@@ -95,4 +99,3 @@ include_once '../catalog/lib/session.php';
 // kickoff controller to do its stuff
 
 $C->start();
-
