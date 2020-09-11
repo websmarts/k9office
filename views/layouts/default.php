@@ -66,7 +66,7 @@
 
     <!--<a href="<?php url('admin/runsheet')?>">Runsheet</a>&nbsp;&nbsp;-->
 
-	<?php if ($_SESSION['PASS']['user'] == 6): ?>
+	<?php if ($_SESSION['PASS']['user'] == 6 ||$_SESSION['PASS']['user'] == 12 ): ?>
 
  &nbsp;&nbsp;<br /><br /> <a href="<?url('admin/products')?>">Products Manager</a>&nbsp;&nbsp;
 
