@@ -231,8 +231,10 @@ class ClientController extends Controller
             join `type` on products.typeid = type.typeid
             where orders.client_id =$clientId
             and DATE_SUB(NOW(),INTERVAL 3 MONTH) < orders.modified
-            group by product_code ";
+            group by orders.order_id,items.product_code ";
             $sql .= $orderBy;
+
+            //$this->pr($sql);exit;
 
             $this->set('result', $this->db->fetchRows($sql));
             $this->set('client',
