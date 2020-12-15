@@ -319,9 +319,9 @@ class ClientController extends Controller
             where orders.client_id =$clientId
             and DATE_SUB(NOW(),INTERVAL " . $months ." MONTH) < orders.modified
             and products.status = 'active'
-            group by product_code ";
+            group by orders.order_id,items.product_code ";
             $sql .= $orderBy;
-            //echo $sql;
+            //echo $sql;exit;
             $items = $this->db->fetchRows($sql, 'product_code');
             // pr($items);
 
