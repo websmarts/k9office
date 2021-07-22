@@ -115,21 +115,24 @@ if ($data['salesRange']) {
 
 
 <?php if (is_array($data['results']['data']) && count($data['results']['data'])): ?>
-<table id="resultstable" cellpadding="0" cellspacing="0">
-<tr>
-	<?php if ($_SESSION['PASS']['user'] == 6): ?>
-	<th width="80">&nbsp;</th>
-	<?php endif?>
-	<th>Client</th>
-	<th>Contact</th>
-    <th>Level</th>
-	<th>Call Every<br/> (days)</th>
-	<th>Last Ordered</th>
-	<th>Last Called</th>
-	<th>Call due <br/>in (days)</th>
+<table id="myTable" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<?php if ($_SESSION['PASS']['user'] == 6): ?>
+			<th width="80">&nbsp;</th>
+			<?php endif?>
+			<th>Client</th>
+			<th>Contact</th>
+			<th>Level</th>
+			<th>Call Every<br/> (days)</th>
+			<th>Last Ordered</th>
+			<th>Last Called</th>
+			<th>Call due <br/>in (days)</th>
 
-	<th>Call planning note</th>
-</tr>
+			<th>Call planning note</th>
+		</tr>
+	</thead>
+	<tbody>
 
 
 <?php foreach ($data['results']['data'] as $r): ?>
@@ -191,5 +194,6 @@ if ($due < 0) {
 	</tr>
 <?php endif;?>
 <?php endforeach;?>
+		</tbody>
 </table>
 <?php endif;?>

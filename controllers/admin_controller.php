@@ -199,6 +199,9 @@ class AdminController extends Controller
 	function export()
 	{
 		$table = $this->R->requestSegment(3);
+		$data='';
+		$header ='';
+
 		if ($table) {
 
 			// may need a table join so check if it is a view being asked for
@@ -245,7 +248,7 @@ class AdminController extends Controller
 				if ($doHeader) {
 					$header .= 'ean_barcode' . "\t";
 				} else {
-					$line .= '"' .$row['barcode']. $this->checkdigit($row['barcode']) . '"' . "\t";
+					$line .= '"' .$row['barcode']. $this->checkdigit($row['barcode']) . '"'  . "\t";
 				}
 				$doHeader = false;
 				$data .= trim($line) . "\n";
