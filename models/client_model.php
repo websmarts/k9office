@@ -362,6 +362,8 @@ Group by user_clients.salesrep_id";
                 $res[] = $row;
 
             }
+
+            //pr($res);exit;
             // sort by call frequency asc and duein asc
             foreach ($res as $key => $row) {
                 $frequency[$key] = $row['call_frequency'];

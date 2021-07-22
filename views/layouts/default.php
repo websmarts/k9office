@@ -27,6 +27,7 @@
     <script type="text/javascript" src="/office/js/jquery-latest.js"></script>
 
 	<script type="text/javascript" src="/office/js/jquery.tablesorter.min.js"></script>
+	
 
 	<script>
 
@@ -34,7 +35,9 @@
 
 	    {
 
-	        $("#myTable").tablesorter();
+	        $("#myTable").tablesorter({
+				//dateFormat : "ddmmyyyy", // set the default date format
+			});
 
 	    }
 

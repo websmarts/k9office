@@ -134,6 +134,8 @@ if ($data['salesRange']) {
 	</thead>
 	<tbody>
 
+<?php //pr($data['results']['data']); ?>
+
 
 <?php foreach ($data['results']['data'] as $r): ?>
 <?php if ($r['call_frequency']): ?>
@@ -177,11 +179,8 @@ if ($due < 0) {
 		<td><?=$r['phone_area_code']?>  <?=$r['phone']?><br /> <?=$r['contact']?></td>
         <td><?=$r['level']?></td>
 		<td><?=$r['call_frequency']?></td>
-		<?php if (!empty($r['lastorderdate'])): ?>
-			<td><?=date('j-m-Y', (strtotime($r['lastorderdate'])))?></td>
-			<? else :?>
-			<td>-</td>
-		<?php endif;?>
+		<td><?=substr($r['lastorderdate'],0,10)?></td>
+		
 		<?php if ($r['lastcall']): ?>
 			<td><?=date('j-m-Y', (strtotime($r['lastcall'])))?></td>
 			<td class=""><?=round($due)?></td>
