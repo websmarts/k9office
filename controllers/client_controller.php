@@ -321,12 +321,12 @@ class ClientController extends Controller
             and products.status = 'active'
             group by orders.order_id,items.product_code ";
             $sql .= $orderBy;
-            //echo $sql;exit;
-            $items = $this->db->fetchRows($sql, 'product_code');
-            // pr($items);
+            //echo pr($sql);exit;
+            $items = $this->db->fetchRows($sql);
+            
 
             if (is_array($items) && count($items)) {
-                foreach ($items as $k => $item) {
+                foreach ($items as $k=>$item) {
                     // check if BOM
                     $bom_items = $this->db->fetchRows("select * from boms where parent_product_code='" . $item['product_code'] . "'");
                     //                   pr($item['product_code']);
@@ -359,15 +359,28 @@ class ClientController extends Controller
             }
             // sift through items and if Bom check availability
 
+            foreach($items as $item){
+
+                if( isSet($newItems[$item['product_code']]) ){
+                    $item['tqty'] += $newItems[$item['product_code']]['tqty'];
+                }
+                $newItems[$item['product_code']] = $item;
+            }
+
+            
+
+            //pr($newItems);exit;
+
             // sort items by product code or tqty
             // note tqty for bom_items maybe zero given client order BOM
             if (!empty($sortBy)) {
-                ksort($items);
+                 ksort($newItems);
             } else {
                 // do nothing
             }
 
-            $this->set('result', $items);
+            // pr($newItems); exit;
+            $this->set('result', $newItems);
 
             // get clientstock data - stock count
             $sql = " select * from clientstock where client_id=$clientId and DATE(`datetime`)=DATE(NOW())";

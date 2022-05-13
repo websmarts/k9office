@@ -1,4 +1,4 @@
-<h2>24 month Order History: <?=$data['client']['name']?> </h2>
+<h2>3 month Order History: <?=$data['client']['name']?> </h2>
  
 <?php
 //pr($data['client']);
