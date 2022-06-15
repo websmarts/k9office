@@ -494,6 +494,9 @@ class ClientController extends Controller
             "select
         notify_me.id as record_id,
         clients.name as clientname,
+        clients.email_1 as email1,
+        clients.email_2 as email2,
+        clients.email_3 as email3,
         users.name as k9_user,
         products.product_code,
         products.description,

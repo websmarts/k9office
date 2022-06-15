@@ -11,6 +11,7 @@
 <thead>
 <tr>
 	<th width="100" class="sort">Client</th>
+	<th width="100">Emails</th>
 	<th width="200" class="sort">Product code</th>
 	<th width="100">Description</th>
     <th width="100">Instock</th>
@@ -23,6 +24,11 @@
 	<?php foreach ($data['result'] as $i): ?>
 		<tr>
 			<td><?=$i['clientname']?></td>
+			<td>
+				<?=!empty($i['email1']) ? trim($i['email1']).',' :'' ?>
+				<?=!empty($i['email2']) ? trim($i['email2']).',' :'' ?>
+				<?=!empty($i['email3']) ? trim($i['email3']) :'' ?>
+		</td>
             <td><a href="<?=url('../catalog/?b=go&v=product_search&q=' . $i['product_code'])?>" target="catalog"><?=$i['product_code']?></a></td>
 
 			<td><?=$i['description']?></td>
